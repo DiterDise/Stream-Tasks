@@ -32,5 +32,6 @@ def atm(value):
 
         if value == 0:
             break
+    return result
 
 print(atm(340))
